@@ -5,6 +5,7 @@
 <img width="793" height="400" alt="image" src="https://github.com/user-attachments/assets/b7c1b57c-238c-4541-86b1-7b2d3b0b2277" />
 
 This project was completed as part of the [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)
+
 The objective of this project is to analyze employee attrition patterns and identify the factors that contribute to workforce turnover. Through exploratory data analysis, statistical investigation, and business intelligence reporting, the project aims to generate actionable insights that support employee retention and workforce management strategies.
 
 Using Python for data preparation and analysis and Power BI for dashboard development, this project follows an end-to-end analytics workflow including data cleaning, feature exploration, visualization, insight generation, and business recommendation development.
